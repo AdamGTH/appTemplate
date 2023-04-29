@@ -1,0 +1,7 @@
+<div id="users">
+  <ul>
+    <% if(users) { %> <% users.forEach((user)=> { %>
+    <li><a href="/profile/<%-user.id %>"><%- user.name %></a></li>
+    <% });%> <% } %>
+  </ul>
+</div>

@@ -1,0 +1,42 @@
+.link {
+  max-height: 90px;
+}
+
+.head_style {
+  background-color: rgb(184, 219, 111);
+  border: 20px;
+  border-color: aquamarine;
+}
+
+#kontakt {
+  background-color: rgb(50, 62, 83);
+  min-height: 500px;
+  text-align: center;
+}
+#home {
+  background-color: darkolivegreen;
+  min-height: 500px;
+}
+
+#user {
+  background-color: rgb(50, 62, 83);
+  min-height: 500px;
+}
+#users {
+  background-color: rgb(50, 62, 83);
+  min-height: 500px;
+}
+
+.ex {
+  color: black;
+  font-size: 22px;
+}
+
+.dex {
+  color: white;
+}
+
+.p-2 {
+  margin-left: 20px;
+  margin-right: 40px;
+}
